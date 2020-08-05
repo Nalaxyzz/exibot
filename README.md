@@ -1,2 +1,4 @@
 # exibot
 bonjour patates
+ok
+
