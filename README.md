@@ -1,1 +1,2 @@
 # exibot
+bonjour patates
